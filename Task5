@@ -1,0 +1,9 @@
+<?php
+// Set variables for G.R. No. and Name
+$grNo = "GR2023123";
+$name = "John Doe";
+
+// Display using echo and print
+echo "G.R. No: $grNo<br>";
+print "Name: $name";
+?>
